@@ -1,0 +1,19 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# PyCharm & IDE settings
+.idea/
+.vscode/
+
+# Local database buffers & logs
+*.duckdb
+*.db
+*.log
