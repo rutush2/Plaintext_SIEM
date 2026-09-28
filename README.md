@@ -41,7 +41,7 @@ Plaintext_SIEM/
 Clone the repository and install required dependencies:
 
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/Plaintext_SIEM.git
+git clone [https://github.com/](https://github.com/)<rutush2>/Plaintext_SIEM.git
 cd Plaintext_SIEM
 pip install fastapi uvicorn streamlit plotly pandas duckdb pydantic
 
